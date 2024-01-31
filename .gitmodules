@@ -1,0 +1,24 @@
+[submodule "cryptography"]
+	path = cryptography
+	url = git@github.com:thor314/cryptography.git
+[submodule "emacs"]
+	path = emacs
+	url = git@github.com:thor314/emacs.git
+[submodule "linux"]
+	path = linux
+	url = git@github.com:thor314/linux.git
+[submodule "near"]
+	path = near
+	url = git@github.com:thor314/near.git
+[submodule "open-source"]
+	path = open-source
+	url = git@github.com:thor314/open-source.git
+[submodule "projects"]
+	path = projects
+	url = git@github.com:thor314/projects.git
+[submodule "puzzles"]
+	path = puzzles
+	url = git@github.com:thor314/puzzles.git
+[submodule "rust-playground"]
+	path = rust-playground
+	url = git@github.com:thor314/rust-playground.git
