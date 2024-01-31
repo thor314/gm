@@ -22,3 +22,6 @@
 [submodule "rust-playground"]
 	path = rust-playground
 	url = git@github.com:thor314/rust-playground.git
+[submodule "web-playground"]
+	path = web-playground
+	url = git@github.com:thor314/web-playground.git
