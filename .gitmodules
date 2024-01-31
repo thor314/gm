@@ -34,3 +34,6 @@
 	path = web-playground
 	url = git@github.com:thor314/web-playground.git
 	branch = main
+[submodule "python-playground"]
+	path = python-playground
+	url = git@github.com:thor314/python-playground.git
