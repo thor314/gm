@@ -2,6 +2,8 @@
 Git submodules of all repos I've worked on since 2017. Why:
 - it is aesthetically pleasing to maintain a merkle tree of my body of work
 - to recursively sync subsections of my work, across N machines
+- `rg`-ing through my work to find snippets
+- landing point to show my work to others
 - gm
 
 ## what makes this a merkle-tree
