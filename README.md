@@ -1,4 +1,6 @@
 # Git-Merkle (GM) 
+![](https://img.shields.io/badge/made_by_cryptograthor-black?style=flat&logo=undertale&logoColor=hotpink)
+
 Git submodules of all repos I've worked on since 2017. Why:
 - it is aesthetically pleasing to have a merkle tree totem representing the sum total of my work
 - to recursively sync subsections of my work, across N machines
